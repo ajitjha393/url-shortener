@@ -3,8 +3,10 @@
 /npm                  https://www.npmjs.com/~ajitjha393
 /edit                 https://github.com/ajitjha393/url-shortener/edit/master/_redirects
 /crimeline            http://crime-line.web.app/
-/pwa                  http://pwagram-a86f0.web.app/
+/pwagram              http://pwagram-a86f0.web.app/
 /so                   https://stackoverflow.com/
-/location             http://share-my-geolocation.web.app/ 
+/share-location       http://share-my-geolocation.web.app/ 
+/shopkart             https://node-shopkart.herokuapp.com/
+/burger               http://react-burger-app-11993.web.app/
 
 /*                    https://www.google.com
