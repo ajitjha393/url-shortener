@@ -13,12 +13,17 @@
 /uhost                https://uhost-site.netlify.app
 /sass                 https://sass-101.netlify.app/
 
-/releaf-app        https://help-releaf.web.app/
-/releaf-admin       https://admin-releaf.web.app/
-/releaf-blog        https://releaf-blog.netlify.app/
+/releaf-app           https://help-releaf.web.app/
+/releaf-admin         https://admin-releaf.web.app/
+/releaf-blog          https://releaf-blog.netlify.app/
 
 
-/tweet              https://twitter.com/jha_bisu/status/1383392206497619968?s=20
+# next-js projects
+
+/next-events          https://next-events.netlify.app/
+
+
+/tweet               https://twitter.com/jha_bisu/status/1383392206497619968?s=20
 
 
 
